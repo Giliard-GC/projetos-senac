@@ -7,15 +7,15 @@ import java.util.Scanner;
 public class Exercicio04 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        float nota1, nota2, nota3;
-        float media;
+        int nota1, nota2, nota3;
+        int media;
         // Solicita as notas ao usuário
         System.out.print("Digite a primeira nota: ");
-        nota1 = scanner.nextFloat();
+        nota1 = scanner.nextInt();
         System.out.print("Digite a segunda nota: ");
-        nota2 = scanner.nextFloat();
+        nota2 = scanner.nextInt();
         System.out.print("Digite a terceira nota: ");
-        nota3 = scanner.nextFloat();
+        nota3 = scanner.nextInt();
         // Calcula a média aritmética
         media = (nota1 + nota2 + nota3) / 3;
         // Verifica se o aluno está aprovado ou reprovado
