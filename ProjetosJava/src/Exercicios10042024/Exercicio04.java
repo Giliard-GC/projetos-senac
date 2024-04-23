@@ -1,4 +1,4 @@
-package Exercicio26032024.Exercicios10042024;
+package Exercicios10042024;
 
 import java.util.Locale;
 import java.util.Scanner;

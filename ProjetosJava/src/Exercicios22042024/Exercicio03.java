@@ -1,5 +1,5 @@
-package Exercicio26032024.Exercicios22042024;
+package Exercicios22042024;
 
 public class Exercicio03 {
-    
+
 }

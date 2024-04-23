@@ -1,4 +1,4 @@
-package Exercicio26032024.Exercicios17042024;
+package Exercicios17042024;
 
 import javax.swing.JOptionPane;
 

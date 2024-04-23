@@ -1,4 +1,4 @@
-package Exercicio26032024.Exercicios10042024;
+package Exercicios10042024;
 
 public class Exercicio01 {
     public static void main(String[] args) {
