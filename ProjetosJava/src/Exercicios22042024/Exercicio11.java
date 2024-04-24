@@ -1,5 +1,5 @@
 package Exercicios22042024;
 
-public class Exercicio10 {
+public class Exercicio11 {
 
 }
