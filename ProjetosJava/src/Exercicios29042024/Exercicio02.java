@@ -7,7 +7,7 @@ public class Exercicio02 {
         int total = redutor;
 
         while (contador <= total){
-            System.out.println("Contador: " + contador);
+            System.out.println("Contador: " + redutor);
             redutor = redutor - 1;
             contador++;
         }
