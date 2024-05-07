@@ -30,7 +30,7 @@ public class Exercicio03 {
             System.out.println("Carro: " + modelo);
             System.out.println("Cor: " + cor);
 
-            if (cor.equalsIgnoreCase("verde")) {
+            if (cor.equalsIgnoreCase("azul")) {
                 quantidadeAzul++;
             }
 
@@ -41,7 +41,7 @@ public class Exercicio03 {
                 System.out.println();
                 System.out.println();
                 System.out.println("====================================");
-                System.out.println("Quantidade veiculo verde: " + quantidadeAzul);
+                System.out.println("Quantidade veiculo azul: " + quantidadeAzul);
                 System.out.println("Quantidade veiculo Fiat: " + quantidadeFiat);
                 System.out.println("====================================");
             }
